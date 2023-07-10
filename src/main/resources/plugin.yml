@@ -1,0 +1,7 @@
+name: Peter
+main: dev.godtitan.peter.Peter
+authors:
+  - GodTitan
+  - pauhull
+version: 0.0.1
+api-version: 1.20

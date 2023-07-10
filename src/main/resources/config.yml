@@ -1,0 +1,22 @@
+messages:
+  join: "&8[&a+&8] &7#(user)"
+  quit: "&8[&c-&8] &7#(user)"
+  ping: "&7Your ping is &e#(ping)ms&7."
+  tps: "&7TPS from last 1m, 5m, 15m: &e#(tps1)&7, &e#(tps5)&7, &e#(tps15)&7."
+  player_chat: "&7#(user)&8: &f#(message)"
+  inventory_title: "&eChoose your team"
+  tab_prefix: "&7[#(team)] &f"
+
+tab: # #(tps), #(ping), #(user)
+  header: "&eTPS: &7#(tps)\n&ePing: &7#(ping)ms\n"
+  footer: "\n"
+
+teams:
+  ai_peter:
+    skull_texture: "ewogICJ0aW1lc3RhbXAiIDogMTU5MjEwMjg5MDMxNCwKICAicHJvZmlsZUlkIiA6ICI3NzI3ZDM1NjY5Zjk0MTUxODAyM2Q2MmM2ODE3NTkxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWJyYXJ5ZnJlYWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU3Y2IwNzA1Mjk5NTk1NDZlNmQwYWRmM2M4ZWFmMGI2OTUwOWZlODc3OTUwMzBkYjdjNzc4ZDA0MDllZjQxNSIKICAgIH0KICB9Cn0="
+    skull_signature: "dZ178kpM97REFnz6Gq2y1r4rE74SaOSwpZB4qfAcEpc1KyjJevIl/FMZvVLjJwSCvt+QEazByrb9vfRXXwZjY8300EZWeXXFcl0r6LASV2qLv5CGpV2Hld+8v1xkJNSTFjnAEYNs69n/gmzDOvgyfPepVHzxCwEMzmV9g5bMrTl6TtrQQZMGB5ADe39KwagzoukAutVc0699U4Unqm9uj8tT6hzIqroIAHaGhUUhnxLzoSu8T2sMFtBtNXHHDAaFQfAwCluYVEvGkhDRRVxylHNcUGszo66040djCidV1NKZKcjsc6h2BNZWsz0KmzY7ZQyu1I2xYln3wPVckFkjj0ZGY3azrlZ5IkI90g+NJSP84zB6/tKW/nvM2FEZRJBLmUSS59eQWfF2cUhFC9seWORXbQZEsng7da15Xt97McrLUFmA1CkO9z2ZeYZo5Alts1ewUJxBbU06aTUWI06ckR5yI7RtIfmPVww0MCeLIZNhLf0fUUXL7GfaaFih/mcvpu4PU9IhzhdCGncx7PDkpNXdmyl3/9rq8Su3EIotY6MZkDQq/A26bHgjz8cvEI5HfoTPZez/wfhMl3TzBZJGVeW7JRYMarXPB8RwfukGvKnfbSCarNnJizAYTzdFkcYdYjvwtg456K2mncmP7tkXny2fjpHT0ZpcuQc8lyEAhHY="
+    players:
+  ai_sponge:
+    skull_texture: "ewogICJ0aW1lc3RhbXAiIDogMTYwNTIxMDk2MzA4NywKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA5ZGNhNjkzNTkwZjg0NDEwY2QzNWZlYzc1ODQ4OWU1MmQ1NDU1MmY3OWQ0YWEzYjk3MDBiMTA3MmFlZjNhMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+    skull_signature: "wvTSw83MNhwSrrfDvUr3L4aUipRzHH+P9YVcQFkUwRIL37nEQh6plhlpLELXpn35E9ikhoS/Mlf8CpXES4F2tJ1x1xoaJZW/e1PZDZ0O/yeJkXpTf4akAt061PVOGrfnyJdPR4VSt7dbmT3UFJ80RVcENqcZjw+lnCq6mqka9p+rpJ9XsV9bameCJ55sSW3FKjql2qRAOSYj5pznXLMKxzzsq+aS4yVgIlTeciR+1KAXdth+SWas5ylQ3epHATSfMiaiI2HVzT+HZYJ5i9lJwP6cuogslcDz+XmEt48yAObWlid4xWC1humZzfbpRdGKfwRZe8S8lFPFGtDAT6BaOlo9Ve7hV9y/aULLRB3B9rdF2iSnPgI/aRppa+OOaNFLuA5flc57d+LB9eE3PsOXp21ArJGcl6aIWQu1Ge+nKFsLstuAdqIgN10J/Si1X+6DsIH6kI1NxZ6PDKZu+V/D13H25c7EOcQ8i/PlfAF/rU7eQZYN7w1RdCdemI5VZUCtbjWFhgTPZKyXkn52m602g505oGIQbTYpRh9T5zDI6kFGgrMU6ygwy1NyuOpVYAETDz8XfSSsbtxsPH+8rQ1qpZZY5HuAI/LB1P5BKfAe/urcSb/0nmZtnmEa/nIjweHuBHj0KPRXsvtApONOv4kW3VMcZaMHuLVy20eRESow2yI="
+    players:
